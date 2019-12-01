@@ -4,6 +4,12 @@
 
 A-Z
 
+* A is for apple.
+* B is for ball.
+* C is for cow.
+* D is for duck.
+* E is for elephant.
+
 ## Theme 2: Numbers
 
 1-20
