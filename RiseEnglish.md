@@ -1,8 +1,6 @@
 # Rise English Learning
 
-## Theme 1: Letters
-
-A-Z
+## Theme 1: ABC Workshop
 
 * A is for apple.
 * B is for ball.
