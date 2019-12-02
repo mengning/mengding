@@ -14,7 +14,7 @@
 
 ## Theme 3: Colors
 
-Red
+The apple is red.
 
 ## Theme 4: Weather
 
