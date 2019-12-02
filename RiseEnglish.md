@@ -17,3 +17,12 @@ A-Z
 ## Theme 3: Colors
 
 Red
+
+## Theme 4: Weather
+
+winter
+
+## Theme 5: Body parts
+
+head
+
