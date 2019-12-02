@@ -14,7 +14,9 @@
 
 ## Theme 3: Colors
 
-The apple is red.
+* The apple is red.
+* The banana  is yellow.
+
 
 ## Theme 4: Weather
 
